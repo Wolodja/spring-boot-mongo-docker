@@ -1,4 +1,4 @@
-# spring-boot-mongodb
+# spring-boot-mongo-docker
 This repository contains a Spring Boot example project for MongoDB.
 
 To use this app you need a Docker Container with Mongo database:
